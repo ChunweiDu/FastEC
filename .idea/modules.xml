@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Exmple/Exmple.iml" filepath="$PROJECT_DIR$/Exmple/Exmple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example/Example.iml" filepath="$PROJECT_DIR$/Example/Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/FastEc.iml" filepath="$PROJECT_DIR$/FastEc.iml" />
       <module fileurl="file://$PROJECT_DIR$/latte-annotations/latte-annotations.iml" filepath="$PROJECT_DIR$/latte-annotations/latte-annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/latte-compiler/latte-compiler.iml" filepath="$PROJECT_DIR$/latte-compiler/latte-compiler.iml" />
